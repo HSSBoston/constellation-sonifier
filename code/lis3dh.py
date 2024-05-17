@@ -8,7 +8,7 @@ import smbus, sys, time, math
 from typing import Tuple, Final
 
 _ADDRESS: Final[int] = 0x18  # Default I2C address for LIS3DH
-_SCALE: Final[int] = 2       # Default sensing full-scale: ±2g
+_SCALE:   Final[int] = 2     # Default sensing full-scale: ±2g
                              #   Value choices: 2, 4, 8 or 16
 
 # Register addresses
@@ -55,7 +55,7 @@ class LIS3DH:
             print("Wrong I2C address: " + hex(self._addr))
             raise
 
-    # Returns an I2C address in hex (string).
+    # Returns an I2C address in string, e.g. "0x18"
     @property
     def addr(self) -> str:
         return hex(self._addr)
