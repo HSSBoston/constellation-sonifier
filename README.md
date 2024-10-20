@@ -2,11 +2,11 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1Iap7OLXJPbDNmZsfVBcFuCyVxrbguQa4/view?usp=sharing"><img src="images/demo-preview.jpg" width="375"></a>
-  <a href="https://docs.google.com/presentation/d/1892Bazc3ocrckrqO_nUQWD-xcB7j0g_qz1vmTglqWvQ/edit?usp=sharing"><img src="images/final-presentation.jpg" width="375"></a>
+  <a href="https://docs.google.com/presentation/d/1892Bazc3ocrckrqO_nUQWD-xcB7j0g_qz1vmTglqWvQ/edit?usp=sharing"><img src="images/final-presentation-title-slide.jpg" width="375"></a>
 </p>
 <p align="center">
-  [ <a href="https://drive.google.com/file/d/1Iap7OLXJPbDNmZsfVBcFuCyVxrbguQa4/view?usp=sharing">2-minute initial/entry video</a> | 
-    <a href="https://docs.google.com/presentation/d/1892Bazc3ocrckrqO_nUQWD-xcB7j0g_qz1vmTglqWvQ/edit?usp=sharing">Final presentation slides</a> ]
+  [ <a href="https://drive.google.com/file/d/1Iap7OLXJPbDNmZsfVBcFuCyVxrbguQa4/view?usp=sharing">2-minute initial/entry presentation</a> | 
+    <a href="https://docs.google.com/presentation/d/1892Bazc3ocrckrqO_nUQWD-xcB7j0g_qz1vmTglqWvQ/edit?usp=sharing">Final 5-minute presentation slides</a> ]
 </p>
 <p align="center">
   <a href="https://docs.google.com/presentation/d/16AtE8gw5tq7u7Ps_pym1cnvDdeaENCeNRaGiDVy72ZU/edit?usp=sharing"><img src="images/power-combined.jpg" width="750"></a>
@@ -17,7 +17,11 @@
 
 I worked on augmented reality (AR) for Astronomy in the [2024 3M Young Scientist Challenge](https://youngscientistlab.com/). My project focused on audio augmentation for Astronomy, translated 6-dimensional constellation data to short music, or “sound logos," with a music-theoretic algorithm and implemented the algorithm as a handheld device. When the device is pointed to the night sky, it searches a constellation in its direction and plays a sound logo for it. 
 
-I was selected as [one of 10 national finalists](https://youngscientistlab.com/annual-challenge/finalists-mentors-judges/finalists/hanna-suzuki-2024). I gave [the final project presentation](https://docs.google.com/presentation/d/1892Bazc3ocrckrqO_nUQWD-xcB7j0g_qz1vmTglqWvQ/edit?usp=sharing) at 3M's headquarters in St. Paul, MN (October 2024). 
+I was selected as [one of 10 national finalists](https://youngscientistlab.com/annual-challenge/finalists-mentors-judges/finalists/hanna-suzuki-2024). In October 2024, I gave [the final project presentation](https://docs.google.com/presentation/d/1892Bazc3ocrckrqO_nUQWD-xcB7j0g_qz1vmTglqWvQ/edit?usp=sharing) at 3M's headquarters in St. Paul, MN. 
+
+<p align="center">
+  <img src="images/final-presentation-title-slide.jpg" width="750">
+</p>
 
 
 ### Project Description:
