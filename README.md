@@ -20,8 +20,8 @@ I worked on augmented reality (AR) for Astronomy in the [2024 3M Young Scientist
 I was selected as [one of 10 national finalists](https://youngscientistlab.com/annual-challenge/finalists-mentors-judges/finalists/hanna-suzuki-2024). In October 2024, I gave [the final project presentation](https://docs.google.com/presentation/d/1892Bazc3ocrckrqO_nUQWD-xcB7j0g_qz1vmTglqWvQ/edit?usp=sharing) at 3M's headquarters in St. Paul, MN. 
 
 <p align="center">
-  <img src="images/final-presentation.jpg" width="375">
-  <img src="images/final-presentation2.jpg" width="375">
+  <img src="images/final-presentation.jpg" width="750"><br>
+  <img src="images/final-presentation2.jpg" width="500">
 </p>
 
 ### Press Coverage:
