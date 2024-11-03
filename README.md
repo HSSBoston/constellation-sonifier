@@ -21,7 +21,7 @@ I was selected as [one of 10 national finalists](https://youngscientistlab.com/a
 
 <p align="center">
   <img src="images/final-presentation.jpg" width="750"><br>
-  <img src="images/final-presentation2.jpg" width="500">
+  <img src="images/final-presentation2.jpg" width="750">
 </p>
 
 ### Press Coverage:
