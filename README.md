@@ -23,6 +23,10 @@ I was selected as [one of 10 national finalists](https://youngscientistlab.com/a
   <img src="images/final-presentation.jpg" width="750">
 </p>
 
+### Press Coverage:
+
+- [Young scientists showcase problem-solving projects at 3M in Maplewood](https://www.twincities.com/2024/10/15/3m-young-scientist-competition-maplewood-minnesota/), Pioneer Press, October 2024. 
+- [Incoming BHS Freshman a Finalist as National Young Scientist](https://thebedfordcitizen.org/2024/07/incoming-bhs-freshman-a-finalist-as-national-young-scientist/), Bedford Citizen, July 2024. 
 
 ### Project Description:
 
