@@ -9,7 +9,7 @@
     <a href="https://docs.google.com/presentation/d/1892Bazc3ocrckrqO_nUQWD-xcB7j0g_qz1vmTglqWvQ/edit?usp=sharing">Final 5-minute presentation slides</a> ]
 </p>
 <p align="center">
-  <a href="https://docs.google.com/presentation/d/16AtE8gw5tq7u7Ps_pym1cnvDdeaENCeNRaGiDVy72ZU/edit?usp=sharing"><img src="images/power-combined.jpg" width="750"></a>
+  <a href="https://docs.google.com/presentation/d/16AtE8gw5tq7u7Ps_pym1cnvDdeaENCeNRaGiDVy72ZU/edit?usp=sharing"><img src="images/poster-combined.jpg" width="750"></a>
 </p>
 <p align="center">
   [ <a href="https://docs.google.com/presentation/d/16AtE8gw5tq7u7Ps_pym1cnvDdeaENCeNRaGiDVy72ZU/edit?usp=sharing">Final poster presentation</a> ]
