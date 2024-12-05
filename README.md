@@ -1,12 +1,12 @@
 ## Audio Augmentation for Celestial Objects: Sonifying Constellations and Mapping their Sound Logos onto the Night Sky
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1Iap7OLXJPbDNmZsfVBcFuCyVxrbguQa4/view?usp=sharing"><img src="images/demo-preview.jpg" width="375"></a>
+  <a href="https://youtu.be/PZNEEIe-FKU"><img src="images/demo-preview.jpg" width="375"></a>
   <a href="https://docs.google.com/presentation/d/1892Bazc3ocrckrqO_nUQWD-xcB7j0g_qz1vmTglqWvQ/edit?usp=sharing"><img src="images/final-presentation-title-slide.jpg" width="375"></a>
 </p>
 <p align="center">
   [ <a href="https://drive.google.com/file/d/1Iap7OLXJPbDNmZsfVBcFuCyVxrbguQa4/view?usp=sharing">2-minute initial/entry presentation</a> | 
-    <a href="https://docs.google.com/presentation/d/1892Bazc3ocrckrqO_nUQWD-xcB7j0g_qz1vmTglqWvQ/edit?usp=sharing">Final 5-minute presentation slides</a> ]
+    <a href="https://youtu.be/1I-Bbp6sdSo">Final 5-minute presentation</a> ]
 </p>
 <p align="center">
   <a href="https://docs.google.com/presentation/d/16AtE8gw5tq7u7Ps_pym1cnvDdeaENCeNRaGiDVy72ZU/edit?usp=sharing"><img src="images/poster-combined.jpg" width="750"></a>
@@ -24,8 +24,9 @@ I was selected as [one of 10 national finalists](https://youngscientistlab.com/a
   <img src="images/final-presentation2.jpg" width="750">
 </p>
 
-### Press Coverage:
+### Media Coverage:
 
+- 3M Japan's [Facebook](https://www.facebook.com/3MJapan/posts/pfbid02gYLWRuQ5PMNMWw7mzLHTnu629T5gPKetRSCKSHbf3bm3TYwHP2bKkRj31eN5fHmyl) and [Instagram](https://www.instagram.com/p/DDLqGlmp6JO/) posts featuring this project, December 2024.
 - [Young scientists showcase problem-solving projects at 3M in Maplewood](https://www.twincities.com/2024/10/15/3m-young-scientist-competition-maplewood-minnesota/), Pioneer Press, October 2024. 
 - [Incoming BHS Freshman a Finalist as National Young Scientist](https://thebedfordcitizen.org/2024/07/incoming-bhs-freshman-a-finalist-as-national-young-scientist/), Bedford Citizen, July 2024. 
 
